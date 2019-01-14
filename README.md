@@ -17,7 +17,7 @@
 ### Contact details 
       nelly0788690690@gmail.com
 
-### Link .
+### Link 
       https://mushimiyimananelly.github.io/Pig-Dice/
 
 ### License
