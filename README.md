@@ -9,12 +9,12 @@
     Setup/Installation Requirements
     Clone this repository_ Open a HTML file Open web browser of choice to view index file
 
-### Technologies Used.
+### Technologies Used
       HTML
     _ CSS_  
       JavaScript
 
-### Contact details 
+### Contact details .
       nelly0788690690@gmail.com
 
 ### Link 
