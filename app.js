@@ -9,7 +9,7 @@ GAME RULES:
 
 var scores, roundScore, activePlayer;
 
-inti();
+inti();.
 
 document.querySelector('.btn-roll').addEventListener('click', function(){
     //1. random num 
@@ -52,7 +52,7 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
     } 
 });
 
-function nextPlayer(){.
+function nextPlayer(){
     activePlayer === 0 ? activePlayer = 1 : activePlayer = 0;
         roundScore = 0;
 
