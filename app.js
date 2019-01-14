@@ -11,7 +11,7 @@ var scores, roundScore, activePlayer;
 
 inti();
 
-document.querySelector('.btn-roll').addEventListener('click', function(){
+document.querySelector('.btn-roll').addEventListener('click', function(){.
     //1. random num 
     var dice = Math.floor(Math.random() *6 ) + 1;
 
