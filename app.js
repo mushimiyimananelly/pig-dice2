@@ -22,7 +22,7 @@ document.querySelector('.btn-roll').addEventListener('click', function(){
     
 
     //3. update the round if the rolled number was not a 1
-    if(dice !== 1){.
+    if(dice !== 1){
         //add score 
         roundScore += dice;
         document.querySelector('#current-'+ activePlayer).textContent = roundScore;  
@@ -47,7 +47,7 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
         document.querySelector('.player-'+activePlayer + '-panel').classList.add('Winner');
         document.querySelector('.player-'+activePlayer + '-panel').classList.remove('Winner');
     }
-    else {
+    else {.
       nextPlayer();
     } 
 });
